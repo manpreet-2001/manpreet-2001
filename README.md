@@ -10,8 +10,8 @@ Tools: GitHub, Visual Studio, Microsoft.AspNetCore<br/>
 Recipe Maker: This is a user-friendly web app that helps users find delicious recipes based on the ingredients they have at home. By selecting a protein and a vegetable, users receive tailored recipe suggestions with step-by-step instructions. Ideal for home cooks, beginners, and anyone looking to make the most of their available ingredients.<br/>
      
 ## 🌐 Connect with Me<br/>
-[GitHub Profile] www.linkedin.com/in/manpreet-singh-802b441b5<br/>
-[LinkedIn] www.linkedin.com/in/manpreet-singh-802b441b5<br/>
+[GitHub Profile,'www.linkedin.com/in/manpreet-singh-802b441b5']<br/>
+[LinkedIn] <br/>
 
 Thanks for visiting my profile!<br/>
 
