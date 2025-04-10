@@ -3,7 +3,7 @@
 I'm a Web Development student at Humber College, North Campus, with a background in Computer Applications (Bachelor’s degree) and experience as a Web Developer. I'm passionate about creating user-friendly, visually appealing, and functional websites.<br/>
 
 ## 🛠 Skills<br/>
-* Languages: C#, JavaScript, HTML, CSS,Javascript, Python, Django<br/>
+* Languages: C#, JavaScript, HTML, CSS, Javascript, Python, Django<br/>
 * Tools: GitHub, Visual Studio, Microsoft.AspNetCore<br/>
 
 ## 🚀 Current Project<br/>
